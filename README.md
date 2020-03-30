@@ -1,2 +1,2 @@
 # repos
-repository for Chromaowl projects
+repository for Chroma Owl projects
